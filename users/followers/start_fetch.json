@@ -1,0 +1,494 @@
+{
+    "users": [
+        {
+            "entryId": "user-291776660",
+            "sortIndex": "1642439852643319808",
+            "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                    "itemType": "TimelineUser",
+                    "__typename": "TimelineUser",
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyOTE3NzY2NjA=",
+                            "rest_id": "291776660",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                                "following": true,
+                                "can_dm": true,
+                                "can_media_tag": true,
+                                "created_at": "Mon May 02 16:03:47 +0000 2011",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "Empowering everyone to feel like they can fly. A bold and unexpected approach to performance footwear and apparel. #FlyHumanFly",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "hoka.com",
+                                                "expanded_url": "https://www.hoka.com",
+                                                "url": "https://t.co/YN001uOorh",
+                                                "indices": [0, 23]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 31978,
+                                "followers_count": 59157,
+                                "friends_count": 179,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 576,
+                                "location": "North America",
+                                "media_count": 2431,
+                                "name": "HOKA",
+                                "normal_followers_count": 59157,
+                                "pinned_tweet_ids_str": [],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/291776660/1655296632",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313499304615718914/v3FYXgKF_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "hoka",
+                                "statuses_count": 10643,
+                                "translator_type": "none",
+                                "url": "https://t.co/YN001uOorh",
+                                "verified": false,
+                                "want_retweets": true,
+                                "withheld_in_countries": []
+                            },
+                            "professional": {
+                                "rest_id": "1574804654709432321",
+                                "professional_type": "Business",
+                                "category": [
+                                    {
+                                        "id": 800,
+                                        "name": "Sports, Fitness & Recreation",
+                                        "icon_name": "IconBriefcaseStroke"
+                                    }
+                                ]
+                            },
+                            "business_account": {}
+                        }
+                    },
+                    "userDisplayType": "User"
+                },
+                "clientEventInfo": {
+                    "component": "FollowingSgs",
+                    "element": "user"
+                }
+            }
+        },
+        {
+            "entryId": "user-18481641",
+            "sortIndex": "1642439852643319807",
+            "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                    "itemType": "TimelineUser",
+                    "__typename": "TimelineUser",
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxODQ4MTY0MQ==",
+                            "rest_id": "18481641",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                                "following": true,
+                                "can_dm": true,
+                                "can_media_tag": true,
+                                "created_at": "Tue Dec 30 17:00:44 +0000 2008",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "The 🐊 is in Miami! 🌴😎",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "laco.st/IuEmUaur",
+                                                "expanded_url": "http://laco.st/IuEmUaur",
+                                                "url": "https://t.co/EbSr94mBP4",
+                                                "indices": [0, 23]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 5638,
+                                "followers_count": 1076923,
+                                "friends_count": 81,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 3431,
+                                "location": "Paris, France",
+                                "media_count": 3486,
+                                "name": "Lacoste",
+                                "normal_followers_count": 1076923,
+                                "pinned_tweet_ids_str": [],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18481641/1679651135",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1632794385866711040/ige4wpVE_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "Lacoste",
+                                "statuses_count": 9712,
+                                "translator_type": "none",
+                                "url": "https://t.co/EbSr94mBP4",
+                                "verified": true,
+                                "verified_type": "Business",
+                                "want_retweets": true,
+                                "withheld_in_countries": []
+                            },
+                            "professional": {
+                                "rest_id": "1494079394557698050",
+                                "professional_type": "Business",
+                                "category": [
+                                    {
+                                        "id": 730,
+                                        "name": "Fashion Company ",
+                                        "icon_name": "IconBriefcaseStroke"
+                                    }
+                                ]
+                            },
+                            "business_account": {}
+                        }
+                    },
+                    "userDisplayType": "User"
+                },
+                "clientEventInfo": {
+                    "component": "FollowingSgs",
+                    "element": "user"
+                }
+            }
+        },
+        {
+            "entryId": "user-21915474",
+            "sortIndex": "1642439852643319806",
+            "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                    "itemType": "TimelineUser",
+                    "__typename": "TimelineUser",
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyMTkxNTQ3NA==",
+                            "rest_id": "21915474",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                                "following": true,
+                                "can_dm": true,
+                                "can_media_tag": true,
+                                "created_at": "Wed Feb 25 20:40:06 +0000 2009",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "reebok.com",
+                                                "expanded_url": "https://www.reebok.com",
+                                                "url": "https://t.co/P1xMiEzAao",
+                                                "indices": [0, 23]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 14636,
+                                "followers_count": 698868,
+                                "friends_count": 4973,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 2357,
+                                "location": "Reebok Global HQ | Boston, MA",
+                                "media_count": 4730,
+                                "name": "Reebok",
+                                "normal_followers_count": 698868,
+                                "pinned_tweet_ids_str": ["1490701891239567364"],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/21915474/1623795347",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404925629334790149/cp9lkIQE_normal.png",
+                                "profile_interstitial_type": "",
+                                "screen_name": "Reebok",
+                                "statuses_count": 38006,
+                                "translator_type": "none",
+                                "url": "https://t.co/P1xMiEzAao",
+                                "verified": true,
+                                "verified_type": "Business",
+                                "want_retweets": true,
+                                "withheld_in_countries": []
+                            },
+                            "business_account": {}
+                        }
+                    },
+                    "userDisplayType": "User"
+                },
+                "clientEventInfo": {
+                    "component": "FollowingSgs",
+                    "element": "user"
+                }
+            }
+        },
+        {
+            "entryId": "user-300114634",
+            "sortIndex": "1642439852643319805",
+            "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                    "itemType": "TimelineUser",
+                    "__typename": "TimelineUser",
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozMDAxMTQ2MzQ=",
+                            "rest_id": "300114634",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                                "following": true,
+                                "can_dm": true,
+                                "can_media_tag": true,
+                                "created_at": "Tue May 17 06:57:08 +0000 2011",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "#ImpossibleIsNothing",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "linktr.ee/adidas",
+                                                "expanded_url": "http://linktr.ee/adidas",
+                                                "url": "https://t.co/EXn1kikqWQ",
+                                                "indices": [0, 23]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 9122,
+                                "followers_count": 4363207,
+                                "friends_count": 203,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 4823,
+                                "location": "Herzogenaurach, Deutschland",
+                                "media_count": 2767,
+                                "name": "adidas",
+                                "normal_followers_count": 4363207,
+                                "pinned_tweet_ids_str": [],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/300114634/1673291585",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1564299301123137545/d1yZqve6_normal.png",
+                                "profile_interstitial_type": "",
+                                "screen_name": "adidas",
+                                "statuses_count": 15796,
+                                "translator_type": "none",
+                                "url": "https://t.co/EXn1kikqWQ",
+                                "verified": true,
+                                "verified_type": "Business",
+                                "want_retweets": true,
+                                "withheld_in_countries": []
+                            },
+                            "business_account": {
+                                "affiliates_count": 1
+                            }
+                        }
+                    },
+                    "userDisplayType": "User"
+                },
+                "clientEventInfo": {
+                    "component": "FollowingSgs",
+                    "element": "user"
+                }
+            }
+        },
+        {
+            "entryId": "user-198975780",
+            "sortIndex": "1642439852643319804",
+            "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                    "itemType": "TimelineUser",
+                    "__typename": "TimelineUser",
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxOTg5NzU3ODA=",
+                            "rest_id": "198975780",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                                "following": true,
+                                "can_dm": true,
+                                "can_media_tag": true,
+                                "created_at": "Tue Oct 05 18:27:05 +0000 2010",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "#JUMPMAN",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "about.nike.com/en/newsroom/re…",
+                                                "expanded_url": "https://about.nike.com/en/newsroom/releases/jordan-brand-statement-on-commitment-to-black-community",
+                                                "url": "https://t.co/VAwL8sVlbh",
+                                                "indices": [0, 23]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 5751,
+                                "followers_count": 4508499,
+                                "friends_count": 161,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 6735,
+                                "location": "",
+                                "media_count": 3813,
+                                "name": "Jordan",
+                                "normal_followers_count": 4508499,
+                                "pinned_tweet_ids_str": ["1557765094120902656"],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/198975780/1656609237",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/956325201054113792/MLcVGcjo_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "Jumpman23",
+                                "statuses_count": 11141,
+                                "translator_type": "none",
+                                "url": "https://t.co/VAwL8sVlbh",
+                                "verified": true,
+                                "verified_type": "Business",
+                                "want_retweets": true,
+                                "withheld_in_countries": []
+                            },
+                            "professional": {
+                                "rest_id": "1621590334781390850",
+                                "professional_type": "Business",
+                                "category": [
+                                    {
+                                        "id": 727,
+                                        "name": "Shopping & Retail",
+                                        "icon_name": "IconBriefcaseStroke"
+                                    }
+                                ]
+                            },
+                            "business_account": {}
+                        }
+                    },
+                    "userDisplayType": "User"
+                },
+                "clientEventInfo": {
+                    "component": "FollowingSgs",
+                    "element": "user"
+                }
+            }
+        },
+        {
+            "entryId": "user-415859364",
+            "sortIndex": "1642439852643319803",
+            "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                    "itemType": "TimelineUser",
+                    "__typename": "TimelineUser",
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MTU4NTkzNjQ=",
+                            "rest_id": "415859364",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "legacy": {
+                                "following": true,
+                                "can_dm": false,
+                                "can_media_tag": true,
+                                "created_at": "Fri Nov 18 22:31:18 +0000 2011",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "#BlackLivesMatter and #StopAsianHate",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "nike.com",
+                                                "expanded_url": "http://nike.com",
+                                                "url": "https://t.co/keUPAvTfId",
+                                                "indices": [0, 23]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 6978,
+                                "followers_count": 9751299,
+                                "friends_count": 116,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 11456,
+                                "location": "Beaverton, Oregon",
+                                "media_count": 3243,
+                                "name": "Nike",
+                                "normal_followers_count": 9751299,
+                                "pinned_tweet_ids_str": [],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/415859364/1654102812",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1532044350019907585/Oo1-e1N2_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "Nike",
+                                "statuses_count": 38152,
+                                "translator_type": "none",
+                                "url": "https://t.co/keUPAvTfId",
+                                "verified": true,
+                                "verified_type": "Business",
+                                "want_retweets": true,
+                                "withheld_in_countries": []
+                            },
+                            "business_account": {}
+                        }
+                    },
+                    "userDisplayType": "User"
+                },
+                "clientEventInfo": {
+                    "component": "FollowingSgs",
+                    "element": "user"
+                }
+            }
+        }
+    ]
+}

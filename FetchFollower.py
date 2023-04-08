@@ -15,7 +15,7 @@ max_of_create_followers_file = 300
 
 shuffle_system = True
 
-parent = 'adidas-300114634'
+parent = '' # parent = 'adidas-300114634'
 directory = f'users/{parent}/followers' if parent else f'users/followers'
 work_in_sub_directory = True
 
